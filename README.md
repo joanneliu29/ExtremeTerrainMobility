@@ -1,0 +1,2 @@
+# ExtremeTerrainMobility
+NASA’s 2022 BIG Idea Challenge calls for university students to investigate novel solutions to the challenge of extreme terrain mobility on lunar surface. This will aid in expanding access and capability to areas for volatile/ice mapping, instrument delivery, and expanding operating sites. Rising to this call to support the upcoming Artemis Lunar Base, the Georgia Institute of Technology Extreme Terrain Mobility team has been formed this semester to design novel ideas for expanding access up the Shackleton Crater’s slope.
